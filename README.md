@@ -1,5 +1,6 @@
 # Today I Learned
 
+## Website Link: https://todayilearn.netlify.app/
 Welcome to the Today I Learned App - a simple but full-stack web application that allows users to learn new facts that they didn't know before. With this app, users can browse and filter facts by category, vote on facts, and add their own facts to the list.
 
 ## Project Features
@@ -18,6 +19,10 @@ Welcome to the Today I Learned App - a simple but full-stack web application tha
 - JavaScript for loading the data into the application and making it interactive.
 - React for building the final application.
 - Netlify for deploying the final project to a web server.
+
+## Preview
+![image](https://github.com/DcMnh/Today-I-Learn/assets/124702144/6638a1a8-c333-4558-bdc1-1dc3c8f29553)
+
 
 
 ## Conclusion
