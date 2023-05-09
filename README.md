@@ -14,10 +14,10 @@ Welcome to the Today I Learned App - a simple but full-stack web application tha
 ## Technologies Used
 - HTML for creating the page content.
 - CSS for styling the page.
-- Supabase, a free service, for creating an online database and API for the data needed in the application.
+- Supabase for creating an online database and API for the data needed in the application.
 - JavaScript for loading the data into the application and making it interactive.
-- React, a popular JavaScript library, for building the final application.
-- Netlify, a free service, for deploying the final project to a web server.
+- React for building the final application.
+- Netlify for deploying the final project to a web server.
 
 
 ## Conclusion
